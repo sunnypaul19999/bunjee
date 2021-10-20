@@ -1,1 +1,3 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
+To compile code files for all questions:
+javac App.java
+java App
